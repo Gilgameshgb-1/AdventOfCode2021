@@ -16,3 +16,5 @@ Converted input into an array and a matrix, searched through the matrix to find 
 Day 6:
 Part 1 is solved using nested for loops, due to the small number of iterations the code works for part1, but doesn't work for part2(too slow, due to the time complexity of the algorithm O(2^n)), so for the second part i used a histogram and did swaps between tmp values and histograms, where the 0 gets added to 6(increases number of fishes) <br /> <br />
 
+Day 7:
+An interesting statistics question, formally easy to program once you get the gist of it.
